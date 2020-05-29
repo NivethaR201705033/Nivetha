@@ -1,0 +1,3 @@
+input1=Math.abs(input1%10);
+input2=Math.abs(input2%10);
+return input1+input2;
